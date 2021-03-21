@@ -50,4 +50,4 @@
 ~~~
 
 ## ビルドガイド
-ビルドガイドは、[buildguide.md](https://github.com/satromi/tlsplit16_rev1/blob/master/buildguide.md) を参照してください。
+ビルドガイドは、[buildguide.md](https://github.com/satromi/microtlk18_rev0/blob/master/buildguide.md) を参照してください。
