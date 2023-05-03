@@ -1,13 +1,11 @@
-# micro TL Split Keyboard 18mm Rev0ビルドガイド
+# micro TL Split Keyboard 18mm Rev1ビルドガイド
 
-μTRON配列を採用した静電容量無接点方式の分割キーボード、micro TL Split Keyboard 18mmのRev0です。
-
-テストバージョンのため、まだ不完全な部分があります。
+μTRON配列を採用した静電容量無接点方式の分割キーボード、micro TL Split Keyboard 18mmのRev1です。
 
 リセットスイッチが必要な場面では、ProMicroのGNDとRSTを銅線などでショートさせて、リセットを押したのと同様の操作をしてください。
 
 ## 説明
-micro TL Split Keyboard 18mm Rev0は、PCBが左右違います。
+micro TL Split Keyboard 18mm Rev1は、PCBが左右違います。
 左右のPCBは、外側にProMicroをはめ込みます。PCBには、表面と裏面があります。"半月状の静電容量スイッチ接点が表面になる方が、表面です。
 
 表面にした状態で、左端にProMicroのソケットが来るのが左側PCBです。
