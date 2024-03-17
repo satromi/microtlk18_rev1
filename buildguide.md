@@ -44,6 +44,11 @@ PCBから外した状態で、部品（USBコネクタなど）が実装され�
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) のインストール・使い方については、サリチル酸さんが書かれた[（初心者編）自作キーボードにファームウェアを書き込む](https://salicylic-acid3.hatenablog.com/entry/qmk-toolbox) が分かりやすいです。
 
 [microtlk_jis.hex](https://github.com/satromi/microtlk18_rev0/blob/main/microtlk_jis.hex) を左のリンクを右クリックしてファイルダウンロードして、QMK Toolboxで書き込みます。
+
+[Remap for QMK 0.18](https://qmk018.remap-keys.app/) 対応のファームウェアも作成しました。参考までに、[Dvorak配列](https://qmk018.remap-keys.app/catalog/nEUkH6S416LJmIyq7CcP/keymap?id=GMrKEeiZaE0p6NRkOBwQ) を共有しています。
+
+[satromi_microtlk_via.hex](https://github.com/satromi/microtlk18_rev0/blob/main/satromi_microtlk_via.hex] を左右に書き込んでから、[Remap for QMK 0.18](https://qmk018.remap-keys.app/)  （QMK 0.18以下対応版）で書き込むことができます。
+
 左右のProMicroそれぞれ書き込みが必要です。
 
 リセットスイッチがこのバージョンには付いていないので、リセットスイッチを押す場面では、GNDとRSTを銅線などでショートさせてください。
