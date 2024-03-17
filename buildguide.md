@@ -47,7 +47,7 @@ PCBから外した状態で、部品（USBコネクタなど）が実装され�
 
 [Remap for QMK 0.18](https://qmk018.remap-keys.app/) 対応のファームウェアも作成しました。参考までに、[Dvorak配列](https://qmk018.remap-keys.app/catalog/nEUkH6S416LJmIyq7CcP/keymap?id=GMrKEeiZaE0p6NRkOBwQ) を共有しています。
 
-[satromi_microtlk_via.hex](https://github.com/satromi/microtlk18_rev0/blob/main/satromi_microtlk_via.hex] を左右に書き込んでから、[Remap for QMK 0.18](https://qmk018.remap-keys.app/)  （QMK 0.18以下対応版）で書き込むことができます。
+[satromi_microtlk_via.hex](https://github.com/satromi/microtlk18_rev0/blob/main/satromi_microtlk_via.hex) を左右に書き込んでから、[Remap for QMK 0.18](https://qmk018.remap-keys.app/)  （QMK 0.18以下対応版）で書き込むことができます。
 
 左右のProMicroそれぞれ書き込みが必要です。
 
